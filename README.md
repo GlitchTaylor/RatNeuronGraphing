@@ -18,10 +18,6 @@ Pictured is a heatmap and scatter plot of neuron activity over time (the horizon
 
 Each layer may be toggled to be looked at individually, and the graph can be zoomed in and manipulated to assist with analysis of certain features.
 
-If you want to have a better look, there's a couple of interactive examples here:
-- https://rtay.io/rat-graphing/example-1
-- https://rtay.io/rat-graphing/example-2
-
 ---
 
 That's all for now. Feel free to experiment with the code, and I'm happy to answer any questions you may have about the project.
