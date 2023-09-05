@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Riley Taylor
+Copyright (c) 2018 Glitch Taylor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
